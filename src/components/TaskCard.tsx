@@ -36,7 +36,7 @@ export default function TaskCard({
                   : "card-title"
               }
             >
-              {title}
+              {title},
             </h5>
           </div>
           <div className="col-xs-3 col-sm-3 col-md-3 col-lg-4">
